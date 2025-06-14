@@ -2,6 +2,6 @@
 - 👀 I’m interested in making discord bots!
 - 🌱 I’m currently learning javascript, CSS, and HTML
 - 💞️ I’m looking to collaborate on TrainerJeo's discord bot muffin with beta testing!
-- 📫 How to reach me on discord PhillsPhanbh3_the_bot_developer
+- 📫 How to reach me on discord PhillsPhanbh3_the_bot_dev
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: loves to code!

@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on TrainerJeo's discord bot muffin with beta testing!
 - 📫 How to reach me on discord PhillsPhanbh3_the_bot_dev
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: loves to code!
+- ⚡ Fun fact: loves to code, Live streams on Twitch, owns 3 discord servers, and codes 10 to 15 discord bots.

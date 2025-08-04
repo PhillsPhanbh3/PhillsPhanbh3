@@ -5,3 +5,10 @@
 - 📫 How to reach me on discord PhillsPhanbh3_the_bot_dev
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: loves to code, Live streams on Twitch, owns 3 discord servers, and codes 10 to 15 discord bots.
+- 🧑‍💻 Hello! I am the bot developer of @Gamer Cave bot#8502, @Java Lava#3011, @Java Lava Premium#1061, and Custom branding bots!
+- 👨‍💻 I go by Phil, Phills, and @phillsphanbh3_the_bot_dev!
+- ⚙️ I code around 10 to 15 different bots and I am learning for the 1st time how to code websites, I have multiple discord bots that I code on my GitHub page!
+- 🎥 I live stream on twitch at https://twitch.tv/phillsphanbh3 I often code my bots while live on stream for the people that like to get a sneak peak! Whenever I am streaming I will have the purple streaming icon and streaming {stream name} in my status! (the {stream name} is well the name of the twitch stream ongoing)-
+- 🎮 I like gaming so if you want to check out my twitch I stream rocket league, sometimes racing games, and sometimes coding! and join my server for some fun times! We get active from time to time but is a semi dead server with the hope of getting to 1k members and a discord bot that will be verified and one day become a mee6 competitor!
+- 👑 I am a discord server owner! Join my server(s) at https://discord.gg/Qg44uQKAMe https://discord.gg/NtcSKb9d3C (PCC requires application to join at this time but will be open to anyone soon), and lastly the Java Lava support server https://discord.gg/fBCYt4kS8K
+- ⚙️ I code Java Lava which you can find on [top.gg](https://top.gg/bot/1305190785536360519), [discord bot list](https://discordbotlist.com/bots/java-lava-3011), on [Java Lava's website](https://javalava.discloud.app/), and lastly [PhillsPhanbh3's portfolio](https://phbh.discloud.app/).
